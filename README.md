@@ -14,5 +14,5 @@
 [Схема интеграций приложений](Task1/as-is/Integrations.png)
 
 ## Задание 2
-
-
+[Все требования по модели FURPS+](Task2/FURPS+_ALL.md)
+[Архитектурно значимые требования по модели FURPS+](Task2/FURPS+_ASR.md)
