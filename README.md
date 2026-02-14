@@ -15,4 +15,17 @@
 
 ## Задание 2
 [Все требования по модели FURPS+](Task2/FURPS+_ALL.md)
+
 [Архитектурно значимые требования по модели FURPS+](Task2/FURPS+_ASR.md)
+
+
+## Задание 3
+[ADR для открытия депозита онлайн](Task3/ADR_deposits.md)
+
+## Задание 4
+[ADR для CRM](Task4/ADR_deposits_rates_crm.md)
+[Roadmap](Task4/diagrams/roadmap_change.png)
+
+
+## Задание 5
+[ADR для заявки на кредит онлайн](Task5/ADR_credits.md)
